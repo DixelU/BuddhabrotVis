@@ -4,8 +4,8 @@
 You can:
   
   * Manipulate with fields on the left.
-  * Move "camera" by using wasd.  
-  * Scale UI (and therefore field) by pressing up and down arrows.
+  * Move "camera" by using WASD.  
+  * Scale UI (and therefore field) by pressing **up** and **down** arrows.
   * Negate brightness by pressing 'n'
   * Pause by pressing space.
 
